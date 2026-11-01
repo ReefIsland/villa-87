@@ -24,30 +24,30 @@ audiores_D7214AAB_52FA_DC10_41BE_59B514FEC530.mp3Url = media/audio_2CDFACC9_52E5
 ### Floorplan
 
 ### Image
-imlevel_02C7C143_811C_9655_41BD_9506C9DE3981.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_0.webp
-imlevel_02C7A14E_811C_966F_41C9_31A42B963938.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_1.webp
-imlevel_02C7B157_811C_967D_41A7_28FF99FF0503.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_2.webp
-imlevel_02C79162_811C_9657_4192_D03CC0C90BF7.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_3.webp
-imlevel_02C7516B_811C_9655_41D8_8D95DED64939.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_4.webp
-imlevel_02C27F44_811C_AA53_41CA_6815FEF2FCFE.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_0.webp
-imlevel_02C21F4D_811C_AA6B_41D2_EE486A2408EF.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_1.webp
-imlevel_02C20F5C_811C_AA73_41D3_1D322D1666CA.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_2.webp
-imlevel_02C5DF64_811C_AA5C_41D9_9BD27E4473FD.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_3.webp
-imlevel_02C5FF6D_811C_AA2D_41DE_5EF5AA01ACBF.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_4.webp
-imlevel_02C0CD3D_811C_AE2D_41D2_3F92F79C1A8D.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_0.webp
-imlevel_02C0ED45_811C_AE5D_41CD_4ACEFB211991.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_1.webp
-imlevel_02C08D4E_811C_AE6C_41DC_63CC964E71F7.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_2.webp
-imlevel_02C0AD57_811C_AE7D_41B1_05E5B6FD0AD9.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_3.webp
-imlevel_02C04D66_811C_AE5F_41AD_E7529F4ECD34.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_4.webp
-imlevel_02CB0661_811C_9A55_41D5_256270C2BF58.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_0.webp
-imlevel_02CAE669_811C_9A55_41DF_87BD89DA0EC1.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_1.webp
-imlevel_02CAF673_811C_9A35_41D5_F487FE4A0E89.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_2.webp
-imlevel_02CAD67E_811C_9A2F_41D9_2A0D775D5F81.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_3.webp
-imlevel_02CAB687_811C_9ADD_41D3_25A01E729AC4.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_4.webp
-imlevel_02C92397_811C_9AFD_41BA_C0DD80979BB9.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_0.webp
-imlevel_02C9139F_811C_9AED_41DB_10161B5AE475.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_1.webp
-imlevel_02C8F3AD_811C_9A2D_41C6_54DB083860EE.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_2.webp
-imlevel_02C8D3B7_811C_9A3D_41B0_01322085DC8B.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_3.webp
+imlevel_16D54169_8104_B655_41D5_C52D4E6951FA.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_0.webp
+imlevel_16D57170_8104_B633_41D1_29AA02D0BCA2.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_1.webp
+imlevel_16D51176_8104_B63F_41A7_F0E1F22BB788.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_2.webp
+imlevel_16D5017E_8104_B62F_41D0_991479F31A2D.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_3.webp
+imlevel_16D6D185_8104_B6DD_41B9_CFA212F8E746.url = media/map_2542C824_6AB1_7241_419B_F90D800977E0_en_4.webp
+imlevel_16D48FD9_8104_AA75_41D5_A570F6D8F04C.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_0.webp
+imlevel_16D49FE0_8104_AA53_41E0_7155AC6C70B6.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_1.webp
+imlevel_16D4BFE7_8104_AA5D_41DC_9DCC21618298.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_2.webp
+imlevel_16D46FEE_8104_AA2F_41AF_A0943CBF85F6.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_3.webp
+imlevel_16D40FF5_8104_AA3D_41DE_8D2F2708CD97.url = media/map_25ED4093_6AB7_B247_41CB_D70079951BCB_en_4.webp
+imlevel_16DABE44_8104_AA53_41E1_EAB78FA67FEE.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_0.webp
+imlevel_16DA4E4B_8104_AA55_41B2_189A290FF0DE.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_1.webp
+imlevel_16DA7E52_8104_AA77_41CD_9A7DC9B0029D.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_2.webp
+imlevel_16DA0E59_8104_AA75_41CF_4ED0DCE63094.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_3.webp
+imlevel_16DA2E60_8104_AA53_41D9_DBE7B7B8289A.url = media/map_26D9B02E_6AB1_7241_41C0_472712424A52_en_4.webp
+imlevel_16D0B480_8104_BED3_41CB_49BAA2003725.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_0.webp
+imlevel_16D0A487_8104_BEDD_41DD_5EA0EC3C3617.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_1.webp
+imlevel_16D0448E_8104_BEEF_41E2_B2A08A9437FF.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_2.webp
+imlevel_16D07495_8104_BEFD_41DF_3AAAF2D790AE.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_3.webp
+imlevel_16D0149D_8104_BEED_41D3_20D68B452615.url = media/map_26E35301_6AB6_F642_41AF_EB48D140C604_en_4.webp
+imlevel_16D7C2FB_8104_BA35_4192_59A40F3F85A2.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_0.webp
+imlevel_16D7F302_8104_BBD7_41D9_9C5C2F606F12.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_1.webp
+imlevel_16D79309_8104_BBD5_41E0_9F353BC8D883.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_2.webp
+imlevel_16D78311_8104_BBF5_41B5_38E14EE9A472.url = media/map_D5AD8D08_FA29_8E9E_41E2_39AD4CDB8D85_en_3.webp
 imlevel_536313A9_795C_17B0_41B0_B39670F37A02.url = media/panorama_754D02B4_62D4_5818_41B6_40DB175D7FA8_HS_jk1a2y8e_en.webp
 imlevel_52BF836B_795C_10B0_41CC_2337F90B0E7C.url = media/panorama_754D02B4_62D4_5818_41B6_40DB175D7FA8_HS_nak2wond_en.webp
 
@@ -408,31 +408,33 @@ Button_307EB3B5_668B_F306_41C6_69C371344137.label = Lorem Ipsum
 Button_307E13B3_668B_F302_41BD_04F1F323654F.label = Lorem Ipsum
 Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9_mobile.pressedLabel = Lorem Ipsum
 Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA_mobile.label = Lorem Ipsum
-Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label = Lorem ipsum
-Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label = Lorem ipsum
 Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label = Lorem ipsum
 Button_307D33B5_668B_F306_41D0_671B339F3D6F.label = Lorem ipsum
+Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label = Lorem ipsum
+Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label = Lorem ipsum
 Button_E931E27B_810D_FA35_41D7_4BC8F0465548_mobile.label = Main Entrance
 Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label = Main Entrance
-Button_E921FE85_810D_EADD_41D1_8FBA3B2D4257_mobile.label = Main Reception
 Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label = Main Reception
-Button_EA6A05BE_811D_BE2F_41CF_8DD5485869F9_mobile.label = Master Bedroom
-Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Master Bedroom
+Button_E921FE85_810D_EADD_41D1_8FBA3B2D4257_mobile.label = Main Reception
 Button_E822845B_8107_9E75_41C4_7575428DA6EA_mobile.label = Master Bedroom
 Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label = Master Bedroom
-Button_705138BD_4E66_F5D5_41C7_67A1B6CC770D.label = OPEN VIRTUAL TOUR
+Button_EA6A05BE_811D_BE2F_41CF_8DD5485869F9_mobile.label = Master Bedroom
+Button_168D6310_3106_01EC_41B8_A0B6BE627547.label = Master Bedroom
 Button_73A859D1_4E6F_77AA_41C2_D74B6095EB78.label = OPEN VIRTUAL TOUR
+Button_F69BC264_8107_BA53_41B9_A2FEC4F9EB53.label = OPEN VIRTUAL TOUR
+Button_F31B8F67_813C_EA5D_41D1_7615636F5EB3.label = OPEN VIRTUAL TOUR
+Button_705138BD_4E66_F5D5_41C7_67A1B6CC770D.label = OPEN VIRTUAL TOUR
 Button_EAC313F0_810D_9A33_41D1_5C4B565CF34C_mobile.label = Office
 Button_5EE9817F_0AED_1845_419E_AD81C5E4AB2C.label = Office
-Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Pool Deck
 Button_EACBA17B_810D_9635_41DF_0B04484B5293_mobile.label = Pool Deck
+Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label = Pool Deck
+Button_F7D96399_810C_BAF4_41C4_AA3CA4742567_mobile.label = Private Terrace
 Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.label = Private Terrace
 Button_17EB32B7_3106_0014_41C8_467BF6AECBE8.label = Private Terrace
-Button_F7D96399_810C_BAF4_41C4_AA3CA4742567_mobile.label = Private Terrace
 Button_F767C31A_813C_9BF7_41DB_7490297C631B_mobile.label = Private Terrace
 Button_17EB42B7_3106_0014_41B0_CE70CBDDF438.label = RF 02
-Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = ROOF TOP FLOOR >
 Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = ROOF TOP FLOOR >
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = ROOF TOP FLOOR >
 Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = ROOMS (First Floor) >
 Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = ROOMS >
 Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = ROOMS >
@@ -450,18 +452,15 @@ Button_5E2379D5_0AED_0845_419F_FAC0C7AE35C3.label = Staff Room
 Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D_mobile.label = Street View
 Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label = Street View
 Button_E939D09D_810D_F6ED_41E0_0667D957276A_mobile.label = Street View
-Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = TERRACES >
 Button_3550EB22_668A_9302_41D3_45A8C1831AAC.label = TERRACES >
-Button_E95BBD1E_810F_AFEC_41D9_198CB1482DFB_mobile.label = Terrace
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = TERRACES >
 Button_496B43BD_7F77_F793_41A7_C4DD2B858C73.label = Terrace
-Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label = Terrace Lagoon Side
+Button_E95BBD1E_810F_AFEC_41D9_198CB1482DFB_mobile.label = Terrace
 Button_E8F4DB17_8107_ABFD_4193_F1881FD9E83D_mobile.label = Terrace Lagoon Side
+Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label = Terrace Lagoon Side
 Button_1759D215_31FA_0014_41AD_B6C5744A0B97.label = Terrace RF (Road side)
 Button_E89C7E37_8107_AA3D_41C8_15D16C51B65B_mobile.label = Terrace Roadside
 Button_4509160D_7B34_1070_41AE_0E22C988D93D.label = Terrace Roadside
-Button_F69BC264_8107_BA53_41B9_A2FEC4F9EB53.label = VIRTUAL TOUR
-Button_F31B8F67_813C_EA5D_41D1_7615636F5EB3.label = VIRTUAL TOUR
-Button_F51E697B_8104_9634_41CC_515144EEE7BC.label = WATCH VIDEO
 Button_EADA57CB_810D_9A55_41B8_02B9E53BFE45_mobile.label = Wet Kitchen
 Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label = Wet Kitchen
 
@@ -501,6 +500,9 @@ HTMLText_6BFB9736_5985_9302_41C6_43BE8ABEB767.html = <div style="text-align:left
 HTMLText_4AE4DCDD_5EE8_88F7_41D1_3A00BC21E997.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.000000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10vmin;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.56vmin;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.3100000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.31vmin;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.25vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14.000000000000004px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_5EDC07A6_604A_587C_41C2_357C4E1573AC.toolTip = OPEN VIRTUAL TOUR
 
 ## Tour
 
